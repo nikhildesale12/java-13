@@ -1,0 +1,6 @@
+Java 13 introduces text blocks to handle multiline strings like JSON/XML/HTML etc. It is a preview feature.
+
+Text Block allows to write multiline strings easily without using \r\n.
+
+Text Block string have same methods as string like contains(), indexOf() and length() functions.
+

@@ -1,0 +1,8 @@
+ text blocks to handle multiline strings like JSON/XML/HTML etc and added new methods to String class to handle text blocks. 
+ It is a preview feature.
+
+stripIndent() - removes incidental white spaces from the start and end of the string.
+
+translateEscapes() - translate the escape sequences as per the string syntax.
+
+formatted() - similar to String format() method to support formatting in text block strings.

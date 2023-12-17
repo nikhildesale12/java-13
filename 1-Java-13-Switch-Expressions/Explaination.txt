@@ -1,0 +1,5 @@
+Java 12 introduces expressions to Switch statement and released it as a preview feature. 
+
+Java 13 added a new yield construct to return a value from switch statement.
+
+It is still a preview feature.
